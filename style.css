@@ -1,0 +1,12 @@
+p {
+  color: blue;
+}
+h1 {
+  color: crimson;
+}
+h1:hover {
+  color: aqua;
+}
+img:hover{
+    width: 800px;
+}
